@@ -1,0 +1,2 @@
+hello from my chrombook!
+Learning Git with the Odin Project
