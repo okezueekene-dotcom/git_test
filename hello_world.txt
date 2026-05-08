@@ -1,3 +1,4 @@
 hello from my chrombook!
 Learning Git with the Odin Project
 practice commit from May 8
+Testing VS Code with editor
